@@ -1,10 +1,7 @@
 package com.quiz_service.service;
 
-import java.lang.foreign.Linker.Option;
-import java.net.ResponseCache;
 import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collectors;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
